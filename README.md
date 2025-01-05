@@ -28,7 +28,9 @@ HP Trivia is crafted for iOS using SwiftUI and Swift 6, offering:
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/ed8df7a1-a099-4f41-b689-0d6e4a7c660e">
 
 ### Game Screen
-<img width="250" alt="image" src="">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/d491f227-9199-460c-9594-55890a571690">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/6f3c2318-0285-4567-8a4b-dadc9c713b5a">
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/e3f24469-c506-413d-86bc-4e99e0f8d9dc">
 
 ## 🛠️ Installation
 
